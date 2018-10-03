@@ -1,0 +1,6 @@
+1. OSI Model
+https://alln-extcloud-storage.cisco.com/ciscoblogs/osi-550x425.gif
+https://www.lifewire.com/thmb/7ir83R8CH6WRy7jgvjEZQZCAwHQ=/400x400/filters:no_upscale():max_bytes(150000):strip_icc()/Osi-model-jb.svg-57f7b9af3df78c690f6305e8.png
+
+2. TCP/IP protocols
+https://en.wikipedia.org/wiki/Internet_protocol_suite
